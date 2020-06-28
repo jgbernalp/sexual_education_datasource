@@ -30,13 +30,13 @@
           ]
         },
         {
-          "context": "No. Ninguna de estas sustancias tiene efectos anticonceptivos para evitar un embarazo, por lo tanto esa idea sólo hace parte de la imaginación de las personas y de algunas falsas creencias populares. Lo que realmente funciona es el uso adecuado de métodos anticonceptivos modernos o la abstención.",
+          "context": "No, ninguna de estas sustancias tiene efectos anticonceptivos para evitar un embarazo, por lo tanto esa idea sólo hace parte de la imaginación de las personas y de algunas falsas creencias populares. Lo que realmente funciona es el uso adecuado de métodos anticonceptivos modernos o la abstención.",
           "qas": [
             {
               "question": "¿Es verdad que tomar Coca Cola con Alka Seltzer antes de la relación sexual evita el embarazo?",
               "answers": [
                 {
-                  "text": "No. Ninguna de estas sustancias tiene efectos anticonceptivos para evitar un embarazo, por lo tanto esa idea sólo hace parte de la imaginación de las personas y de algunas falsas creencias populares. Lo que realmente funciona es el uso adecuado de métodos anticonceptivos modernos o la abstención."
+                  "text": "No, ninguna de estas sustancias tiene efectos anticonceptivos para evitar un embarazo, por lo tanto esa idea sólo hace parte de la imaginación de las personas y de algunas falsas creencias populares. Lo que realmente funciona es el uso adecuado de métodos anticonceptivos modernos o la abstención."
                 }
               ]
             }
@@ -69,13 +69,13 @@
           ]
         },
         {
-          "context": "No. El uso de anticonceptivos no tiene nada que ver con las  alteraciones reproductivas o problemas de fertilidad, evitan  embarazo mientras la persona los utilice correctamente,  cuando los suspende retorna la fertilidad. Lo que sucede es  que muchas personas utilizan anticonceptivos sin saber sus  posibilidades reproductivas o si tienen alguna alteración;  cuando dejan el método para lograr el embarazo se dan  cuenta que tienen dificultades, pero no por el anticonceptivo  sino que existían previamente.",
+          "context": "No, el uso de anticonceptivos no tiene nada que ver con las  alteraciones reproductivas o problemas de fertilidad, evitan  embarazo mientras la persona los utilice correctamente,  cuando los suspende retorna la fertilidad. Lo que sucede es  que muchas personas utilizan anticonceptivos sin saber sus  posibilidades reproductivas o si tienen alguna alteración;  cuando dejan el método para lograr el embarazo se dan  cuenta que tienen dificultades, pero no por el anticonceptivo  sino que existían previamente.",
           "qas": [
             {
               "question": "¿El uso de métodos anticonceptivos temporales puede  producir infertilidad?",
               "answers": [
                 {
-                  "text": "No. El uso de anticonceptivos no tiene nada que ver con las  alteraciones reproductivas o problemas de fertilidad, evitan  embarazo mientras la persona los utilice correctamente,  cuando los suspende retorna la fertilidad. Lo que sucede es  que muchas personas utilizan anticonceptivos sin saber sus  posibilidades reproductivas o si tienen alguna alteración;  cuando dejan el método para lograr el embarazo se dan  cuenta que tienen dificultades, pero no por el anticonceptivo  sino que existían previamente."
+                  "text": "No, el uso de anticonceptivos no tiene nada que ver con las  alteraciones reproductivas o problemas de fertilidad, evitan  embarazo mientras la persona los utilice correctamente,  cuando los suspende retorna la fertilidad. Lo que sucede es  que muchas personas utilizan anticonceptivos sin saber sus  posibilidades reproductivas o si tienen alguna alteración;  cuando dejan el método para lograr el embarazo se dan  cuenta que tienen dificultades, pero no por el anticonceptivo  sino que existían previamente."
                 }
               ]
             }
@@ -95,13 +95,13 @@
           ]
         },
         {
-          "context": "No. El condón debe usarse siempre, en todas las relaciones  sexuales porque es el único método que puede prevenir las  Infecciones de Transmisión Sexual (ITS) incluido el VIH/Sida.",
+          "context": "No, el condón debe usarse siempre, en todas las relaciones  sexuales porque es el único método que puede prevenir las  Infecciones de Transmisión Sexual (ITS) incluido el VIH/Sida.",
           "qas": [
             {
               "question": "¿Se debe usar el condón sólo si hay riesgo de embarazo?",
               "answers": [
                 {
-                  "text": "No. El condón debe usarse siempre, en todas las relaciones  sexuales porque es el único método que puede prevenir las  Infecciones de Transmisión Sexual (ITS) incluido el VIH/Sida."
+                  "text": "No, el condón debe usarse siempre, en todas las relaciones  sexuales porque es el único método que puede prevenir las  Infecciones de Transmisión Sexual (ITS) incluido el VIH/Sida."
                 }
               ]
             }
@@ -121,26 +121,26 @@
           ]
         },
         {
-          "context": "Sí. Existe la posibilidad de un embarazo porque aunque la  eyaculación se haya quedado en la entrada de la vagina  algunos espermatozoides pueden llegar hasta el óvulo.",
+          "context": "Sí, existe la posibilidad de un embarazo porque aunque la  eyaculación se haya quedado en la entrada de la vagina  algunos espermatozoides pueden llegar hasta el óvulo.",
           "qas": [
             {
               "question": "¿Si un hombre eyacula en la entrada de la vagina, la mujer  puede quedar embarazada?",
               "answers": [
                 {
-                  "text": "Sí. Existe la posibilidad de un embarazo porque aunque la  eyaculación se haya quedado en la entrada de la vagina  algunos espermatozoides pueden llegar hasta el óvulo."
+                  "text": "Sí, existe la posibilidad de un embarazo porque aunque la  eyaculación se haya quedado en la entrada de la vagina  algunos espermatozoides pueden llegar hasta el óvulo."
                 }
               ]
             }
           ]
         },
         {
-          "context": "Sí. Aunque sea la primera relación sexual cuando ésta se  practica durante los días fértiles o de ovulación y no se emplea  un método anticonceptivo, la mujer puede quedar  embarazada.",
+          "context": "Sí, aunque sea la primera relación sexual cuando ésta se  practica durante los días fértiles o de ovulación y no se emplea  un método anticonceptivo, la mujer puede quedar  embarazada.",
           "qas": [
             {
               "question": "¿Se puede quedar embarazada en la primera relación sexual?",
               "answers": [
                 {
-                  "text": "Sí. Aunque sea la primera relación sexual cuando ésta se  practica durante los días fértiles o de ovulación y no se emplea  un método anticonceptivo, la mujer puede quedar  embarazada."
+                  "text": "Sí, aunque sea la primera relación sexual cuando ésta se  practica durante los días fértiles o de ovulación y no se emplea  un método anticonceptivo, la mujer puede quedar  embarazada."
                 }
               ]
             }
@@ -173,13 +173,13 @@
           ]
         },
         {
-          "context": "Sí. El embarazo en las adolescentes se considera de alto riesgo  y en ellas son más frecuentes alteraciones o enfermedades  como hipertensión, anemia, complicaciones nutricionales,  bajo peso del feto al nacer, parto prematuro y complicaciones  durante el parto. Cuando la madre es una adolescente es más  frecuente que el recién nacido se enferme o fallezca durante  el primer año de vida.",
+          "context": "Sí, el embarazo en las adolescentes se considera de alto riesgo  y en ellas son más frecuentes alteraciones o enfermedades  como hipertensión, anemia, complicaciones nutricionales,  bajo peso del feto al nacer, parto prematuro y complicaciones  durante el parto. Cuando la madre es una adolescente es más  frecuente que el recién nacido se enferme o fallezca durante  el primer año de vida.",
           "qas": [
             {
               "question": "¿Es peligroso un parto en una mujer menor de 16 años?",
               "answers": [
                 {
-                  "text": "Sí. El embarazo en las adolescentes se considera de alto riesgo  y en ellas son más frecuentes alteraciones o enfermedades  como hipertensión, anemia, complicaciones nutricionales,  bajo peso del feto al nacer, parto prematuro y complicaciones  durante el parto. Cuando la madre es una adolescente es más  frecuente que el recién nacido se enferme o fallezca durante  el primer año de vida."
+                  "text": "Sí, el embarazo en las adolescentes se considera de alto riesgo  y en ellas son más frecuentes alteraciones o enfermedades  como hipertensión, anemia, complicaciones nutricionales,  bajo peso del feto al nacer, parto prematuro y complicaciones  durante el parto. Cuando la madre es una adolescente es más  frecuente que el recién nacido se enferme o fallezca durante  el primer año de vida."
                 }
               ]
             }
@@ -303,13 +303,13 @@
           ]
         },
         {
-          "context": "No. Todas esas son ideas que se han difundido para crear  miedo hacia la masturbación y por lo tanto son falsas. La  masturbación no influye en ninguna de estas circunstancias,  pues los barros y la estatura son características propias del  desarrollo durante la adolescencia. Los pelos en la palma de la  mano nunca salen.",
+          "context": "No, todas esas son ideas que se han difundido para crear  miedo hacia la masturbación y por lo tanto son falsas. La  masturbación no influye en ninguna de estas circunstancias,  pues los barros y la estatura son características propias del  desarrollo durante la adolescencia. Los pelos en la palma de la  mano nunca salen.",
           "qas": [
             {
               "question": "¿Es verdad que cuando una persona se masturba le salen  barros, pelos en la palma de la mano o no crece en estatura?",
               "answers": [
                 {
-                  "text": "No. Todas esas son ideas que se han difundido para crear  miedo hacia la masturbación y por lo tanto son falsas. La  masturbación no influye en ninguna de estas circunstancias,  pues los barros y la estatura son características propias del  desarrollo durante la adolescencia. Los pelos en la palma de la  mano nunca salen."
+                  "text": "No, todas esas son ideas que se han difundido para crear  miedo hacia la masturbación y por lo tanto son falsas. La  masturbación no influye en ninguna de estas circunstancias,  pues los barros y la estatura son características propias del  desarrollo durante la adolescencia. Los pelos en la palma de la  mano nunca salen."
                 }
               ]
             }
@@ -355,13 +355,13 @@
           ]
         },
         {
-          "context": "Sí. Esa es una decisión personal y de pareja. Si la persona  decide practicarlas es recomendable utilizar siempre condón  para prevenir Infecciones de Transmisión Sexual (ITS) incluido  el VIH/Sida.",
+          "context": "Sí, esa es una decisión personal y de pareja. Si la persona  decide practicarlas es recomendable utilizar siempre condón  para prevenir Infecciones de Transmisión Sexual (ITS) incluido  el VIH/Sida.",
           "qas": [
             {
               "question": "¿Se pueden tener relaciones sexuales orales y anales?",
               "answers": [
                 {
-                  "text": "Sí. Esa es una decisión personal y de pareja. Si la persona  decide practicarlas es recomendable utilizar siempre condón  para prevenir Infecciones de Transmisión Sexual (ITS) incluido  el VIH/Sida."
+                  "text": "Sí, esa es una decisión personal y de pareja. Si la persona  decide practicarlas es recomendable utilizar siempre condón  para prevenir Infecciones de Transmisión Sexual (ITS) incluido  el VIH/Sida."
                 }
               ]
             }
@@ -381,13 +381,13 @@
           ]
         },
         {
-          "context": "No es cierto. La vaselina nunca se debe aplicar sobre los  genitales porque puede propiciar infecciones. Si se desea  utilizar alguna sustancia para facilitar la lubricación, se  recomienda usar lubricantes a base de agua que son  elaborados exclusivamente para actividades sexuales.",
+          "context": "No es cierto, la vaselina nunca se debe aplicar sobre los  genitales porque puede propiciar infecciones. Si se desea  utilizar alguna sustancia para facilitar la lubricación, se  recomienda usar lubricantes a base de agua que son  elaborados exclusivamente para actividades sexuales.",
           "qas": [
             {
               "question": "¿Es cierto que si un hombre se aplica vaselina en el pene  evita que la mujer sienta dolor durante la relación sexual?",
               "answers": [
                 {
-                  "text": "No es cierto. La vaselina nunca se debe aplicar sobre los  genitales porque puede propiciar infecciones. Si se desea  utilizar alguna sustancia para facilitar la lubricación, se  recomienda usar lubricantes a base de agua que son  elaborados exclusivamente para actividades sexuales."
+                  "text": "No es cierto, la vaselina nunca se debe aplicar sobre los  genitales porque puede propiciar infecciones. Si se desea  utilizar alguna sustancia para facilitar la lubricación, se  recomienda usar lubricantes a base de agua que son  elaborados exclusivamente para actividades sexuales."
                 }
               ]
             }
